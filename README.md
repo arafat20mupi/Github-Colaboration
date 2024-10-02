@@ -128,4 +128,19 @@ Collaborating on a project using Git and GitHub involves several key steps and b
 5. **Code Reviews**
    - Participate in code reviews to ensure high-quality code and share knowledge with the team.
 
+
+
+
+### 11. ***Pull Request Step In GIthub**
+
+Creating a Pull Request on GitHub involves the following steps:
+
+   - Go to the original repository (the one you forked from).
+   - You will see a message prompting you to compare and create a pull request because you've pushed a new branch to your fork.
+   - Click "Compare & pull request."
+   - Add a title and description to your pull request, explaining the changes you've made.
+   - Select the base branch of the original repository (usually `development` or `Your_branch`) and your branch from the dropdown.
+   - Click "Create pull request."
+   - Again click "Create pull request."
+
 By following these steps, you'll be able to collaborate effectively on projects using Git and GitHub.
